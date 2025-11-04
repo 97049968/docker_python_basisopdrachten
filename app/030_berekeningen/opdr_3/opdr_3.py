@@ -3,14 +3,23 @@
 # Groep:
 
 # Hier komt je code...
+
 x = 1
-y = ...
-print( ... )
+a = 4 * (x ** 3)
+b = (2 * (x ** 2)) - 1
+y = a - b
+print("De uitkomst is:", y)
 
 x = 2
-y = ...
-print( ... )
+a = 4 * (x ** 3)
+b = (2 * (x ** 2)) - 1
+y = a - b
+print("De uitkomst is", y)
 
 x = 0
-y = ...
-print( ... )
+a = 4 * (x ** 3)
+b = (2 * (x ** 2)) - 1
+y = a - b
+print("De uitkomst is", y)
+
+

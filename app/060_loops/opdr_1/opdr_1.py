@@ -7,3 +7,6 @@
 # Hier start de for-loop....
 
 my_list = []
+for g in range(1, 11):  
+    my_list.append(g)
+print(my_list)

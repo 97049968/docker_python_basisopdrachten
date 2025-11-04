@@ -6,4 +6,5 @@
 
 # Hier start de for-loop
 
-my_list = []
+my_list = [((v * 4) + 7)  for v in range(1, 10)]
+print(my_list)
